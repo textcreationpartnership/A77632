@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The brothers of the separation. Or a true relation of a company of Brownists which kept their conventicle at one Mr. Porters in Goat Alley in Whitecrosse-street, where they were apprehended on Sunday, Aug. 14. 1641. As also, a sermon preached afterwards in the same house by Iohn Rogers a glover, wherein is shewed their wicked rancorous minds at full. This was justified by above twenty men of good life and conversation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77632</idno>
+            <idno type="STC">Wing B4986</idno>
+            <idno type="STC">Thomason E172_11</idno>
+            <idno type="STC">ESTC R16330</idno>
+            <idno type="EEBO-CITATION">99860018</idno>
+            <idno type="PROQUEST">99860018</idno>
+            <idno type="VID">112123</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112123)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The brothers of the separation. Or a true relation of a company of Brownists which kept their conventicle at one Mr. Porters in Goat Alley in Whitecrosse-street, where they were apprehended on Sunday, Aug. 14. 1641. As also, a sermon preached afterwards in the same house by Iohn Rogers a glover, wherein is shewed their wicked rancorous minds at full. This was justified by above twenty men of good life and conversation.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Tho: Harper,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brownists --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112123:1"/>
+            <pb facs="tcp:112123:1" rendition="simple:additions"/>
+            <p>THE Brothers of the Separation.</p>
+            <p>OR A true Relation of a company of Brow<g ref="char:EOLhyphen"/>niſts which kept their Conventicle at one Mr. <hi>Porters</hi> in Goat Alley in Whitecroſſe-ſtreet, where they were apprehended on Sun<g ref="char:EOLhyphen"/>day, Aug. 14. 1641.</p>
+            <p>As alſo, A Sermon preached afterwards in the ſame houſe by <hi>Iohn Rogers</hi> a Glover, wherein is ſhewed their wicked ran<g ref="char:EOLhyphen"/>corous minds at full.</p>
+            <p>This was juſtified by above twenty men of good life and converſation.</p>
+            <q>
+               <bibl>Mark 13.30.</bibl>
+               <p>Verily I ſay unto you, that this generation ſhall not paſſe, till all theſe things be done.</p>
+            </q>
+            <p>Printed at London by <hi>Tho: Harper,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:112123:2"/>
+            <pb facs="tcp:112123:2"/>
+            <head>The Brothers of the Separation.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat good counſell hath our Saviour given us, and how little uſe we make of it? he bids us take heed in <hi>Marke</hi> 10. leſt we be led away with the do<g ref="char:EOLhyphen"/>ctrine of falſe Prophets, and yet how apt are we to beleeve the traditions of every frothy brained coxc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbe? To this intent I ſpeake, here are ſo many Sects and Schiſmes lately ſprung up here in this Kingdome, that they (like to the plagues of Aegypt) have over-run the Land: but the Brow<g ref="char:EOLhyphen"/>niſts, the brothers of the ſeparation, beare the grea<g ref="char:EOLhyphen"/>teſt ſway, being upheld by too many of that Sect, they like to the Philiſtins bring their <hi>Goliah</hi> to fight their battels, but there is no doubt but there will a<g ref="char:EOLhyphen"/>riſe a <hi>David</hi> of truth to beat downe their ſoaring impudent thoughts. I have reaſons founded upon ſuch deepe grounds, that I doubt not but that the Reader wil eaſily grant what I ſhal here propound, to which purpoſe reade as followeth.</p>
+            <p>In Goat alley in Whitecroſſe-ſtreet here in Lon<g ref="char:EOLhyphen"/>don, dwelleth one Mr. <hi>Porter,</hi> one who is not aſha<g ref="char:EOLhyphen"/>med to confeſſe himſelfe to be of the ſeparation: nay he is growne ſo fooliſh in his opinions, that hee keepeth weekly Conventicles in his houſe. Theſe were held ſo covertly, that they there had meetings
+<pb facs="tcp:112123:3"/>Sunday after Sunday for a great while together undiſcerned, but the houſe was ſo continually troubled with Crowes and Magpyes, that they could ſcarce heare what was ſpoken in the houſe: at laſt it pleaſed God to make their w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aknes known: and one Sunday the 14. of Auguſt laſt they were apprehended, and the chiefe of them committed to priſon, but they ſtayed not there long till they were delivered, and every one at liberty againe, this was not enough though to make them d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiſt from their wickedneſſe, for they went on <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gaine in their old frailty, like the dog to his vomit, or the ſow to her wallow, putting the poore ſenſl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe birds in all the fault for betraying them, as they tearmed it, which the contents of the next Sermon which a Glover taught will manifeſt, for I had the chiefe notes from a friend which was at the relation thereof.</p>
+            <p>He began firſt with an <hi>ex tempore</hi> prayer about an houre long, and then thus he proceeded.</p>
+            <div type="sermon">
+               <p>The text is the firſt Chapter of the third booke of <hi>Moſes,</hi> called <hi>Leviticus,</hi> at the 14. verſe, the latter part of the verſe, <hi>Then hee ſhall bring his offering of Turtle Doves, and of young Pigeons.</hi>
+               </p>
+               <p>Dearly beloved brethren, if you have not for<g ref="char:EOLhyphen"/>gotten your ſelves, wee were lately betrayed by two uncleane birds, the Crow and the Magpye; be not diſmaid, for ſure it was rather an ench<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntment of the wicked, then any thing ſent from God, for I will prove them to be birds which are unclean and fit for no uſe, as you may re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de in the el<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venth of Leviticus, the 13, 14, 15, 16, 17, verſes, where there
+<pb facs="tcp:112123:3"/>is the Raven mentioned, which is couſin german to the Crow, for they are birds of a feather; and by the little Owle in the 17. verſe, is meant the Mag<g ref="char:EOLhyphen"/>pie, which is alſo a very uncleane bird; I ſhall alſo proove them to bee utterly unlawfull by circum<g ref="char:EOLhyphen"/>ſtance.</p>
+               <p>Firſt, the Crow is blacke, being adorned with the very ſame colour which our Clergy weares, which ſignifies his blacke wickedneſſe, and that he is not worthy to keepe company with the juſt.</p>
+               <p>Secondly, he never cries but he bows his head, as our late ſup<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſtitious Clergy have done, in ſo much that in the concluſion of this circumſtance I utterly abjure the Crow, for thou art a favourer of the Ro<g ref="char:EOLhyphen"/>miſh Religion.</p>
+               <p>Thirdly, the Crow is alwayes feeding on the dead carcaſes, for the old Proverb tells, that on a dead carcaſe you ſhall alwayes find Crowes, there<g ref="char:EOLhyphen"/>fore I compare the dead carca<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s to ſinners, and Crowes to the Devils, for I ſay they can be no bet<g ref="char:EOLhyphen"/>ter then D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vils. To prove which, mark I pray you, the Crow is the laſt bird that goeth to rooſt, and the firſt bird that com<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s from his rooſt, having juſt the properties of the Devill, for he is up early, and downe late, ſeeking all he can how to devoure.</p>
+               <p>I reſts now that I prove the Magpy alſo to bee unl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wfull for the company of man.</p>
+               <p>F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt, hee is ſtreaked with white on both ſides, which ſhould be <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n embleme of righteouſneſſe, but it doth reſemble the Biſhops lawne ſleeves ſo near<g ref="char:EOLhyphen"/>ly, that I cannot endure the ſight of it.</p>
+               <pb facs="tcp:112123:4"/>
+               <p>Secondly, he hath a croſſe on his backe of black and white, which fully denotes him to be one of the Popes diſciples, whom I love as the devill loves holy water.</p>
+               <p>Thirdly, in his chattering ſtill I can underſtand him when he ſayes <hi>&amp; caetera,</hi> and that is the lan<g ref="char:EOLhyphen"/>guage of the beaſt, which is moſt abominable: he alſo gets his living among dead carcaſes, which makes me reſolve my ſelfe of it, that he is marked out for no good end.</p>
+               <p>Now I have obſerved this alſo, that they will ſit on the heads of ſwine, a ſtinking ditty creature, and I perſwade my ſelfe, ſhould the evill ſpirits en<g ref="char:EOLhyphen"/>ter into thoſe ſwine, they would ſit f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt whilſt they were hurried headlong into the ſea.</p>
+               <p>Thus much for to prove theſe birds not fit for the ſociety of man. Now muſt I a little vindicate our religion, becauſe that many black mouth'd perſons envying our happineſſe, are never well but when they are ſpitting f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth venemous words againſt our honeſt doing; theſe ſaies one will not keepe com<g ref="char:EOLhyphen"/>pany with the wicked, when God knowes them<g ref="char:EOLhyphen"/>ſelves are as whoring rogues, and whores, as ever lived under the coape of heaven; to whom I an<g ref="char:EOLhyphen"/>ſwer.</p>
+               <p>If the ſpirit of the fleſh doe move a brother of the ſeparation ſo ſtrongly that he cannot reſiſt it, I perſwade my ſelfe that he is not to be faulted, al<g ref="char:EOLhyphen"/>waies provided that hee doth not pollute himſelfe with the wicked, but make uſe of a ſiſter of the ſe<g ref="char:EOLhyphen"/>paration. Then they will ſay again that we preach
+<pb facs="tcp:112123:4"/>in barnes and ſtables and the like, which ſay they is moſt abominable, for is it fit that they ſhould make <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> barne, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſtable, or the like, the houſe of God, it <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not to bee endured. To that argument I anſwer, that the ſparrowes build their neſts about the roofe of the houſe of God, and the ſwallowes on the top thereof, now where doe either ſparrowes, or ſwal<g ref="char:EOLhyphen"/>lows more often build then in the roofe and on the top of a barne, a ſtable or the like; and againe our Saviour choſe a homely ſtable to be borne in, and I dare avouch that his word is never the worſe for being taught in a barne, a ſtable, or any ſuch like pl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce.</p>
+               <p>Dearly beloved brethren, who are onely Gods e<g ref="char:EOLhyphen"/>lect here from forth a multitude of people, conſider what a h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppie eſtate yee now are in, and into what a moſt damnable eſtate yee fall if yee ſlide: but I h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve not done with the unclean birds and beaſts as yet, for I will prove them worſe as yet by ſhewing their contraries.</p>
+               <p>The turtle doves, and the pigeons which are inti<g ref="char:EOLhyphen"/>mated in my text, are ſuch harmleſſe and loving birds, that the one will pine away for the loſſe of the other, and againe they are as it were an Em<g ref="char:EOLhyphen"/>bleme of us, for they alwaies keepe company with none but with turtles and pigeons, and againe they fly alwaies in feare of their lives by reaſon of the ravenous crowes, hawkes and, buzzards. This age gives the crows leave to prey upon the poore ſillie doves; and that you might underſtand it the bet<g ref="char:EOLhyphen"/>ter, I would have you know that theſe crowes here
+<pb facs="tcp:112123:5"/>divinely ſpoken of are our high ſoaring cleargie, who have lately roſe early, and went to bed late that they might perſecute the Saints of God. Wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h theſe and ſuch like baſe railing term<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, he a mecha<g ref="char:EOLhyphen"/>nick ſimple gull muſt offer to prophane the name of our great God, who is the alpha, and omega, the beginning and the end: His diſcourſe was not ſo ſhort, he that gathered the notes was more weary of hearing and writing, by much, then the other of ſpeaking; for hee went on in a confuſed manner, without either diviſion of his text, or any ſuch matter.</p>
+               <p>Here reader haſt thou preſented to thy view the whole force of what he ſpake.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
